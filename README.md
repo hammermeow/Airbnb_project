@@ -1,2 +1,1 @@
-# Coursera
-# R programing
+# MA710 Course
